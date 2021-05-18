@@ -10,8 +10,6 @@ const delay = ms => {
     return prom;
 };
 
-
-
 const logger = time => console.log(`Resolved after ${time}ms`);
 
 // Вызовы функции для проверки
